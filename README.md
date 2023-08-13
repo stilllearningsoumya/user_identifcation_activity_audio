@@ -1,7 +1,7 @@
 # Non-intrusive Continuous User Identification from Activity Acoustic Signatures
 GitHub repository for the paper accepted in PerCom 2021 Work-in-Progress track.
 
-# Citations
+## Citations
 If the findings and settings of this work are useful in your research, please consider citing our paper:
 ```
 @inproceedings{9430961,
